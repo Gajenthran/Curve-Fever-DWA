@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Gajenthran/Curve-Fever-DWA#readme",
   "dependencies": {
     "lodash.template": ">=4.5.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "module": "^1.2.5",
     "socket.io": "^2.2.0"
   }
